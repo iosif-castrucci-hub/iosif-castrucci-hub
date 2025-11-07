@@ -27,15 +27,24 @@
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=750&lines=“Automation+is+good,+as+long+as+you+know+exactly+where+to+put+the+machine.”+–+Eliyahu+Goldratt" alt="Animated Quote" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Automate.;Optimize.;Innovate." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 🧩 Automation Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,notion,obsidian" /><br>
-  <img src="https://skillicons.dev/icons?i=ai,vite,react,html,css,js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/N8n_Logo.svg" width="60" height="45" alt="n8n" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" width="60" height="45" alt="Zapier" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/make-com.svg" width="60" height="45" alt="Make" />
 </p>
 
 ---
@@ -49,5 +58,5 @@
 ---
 
 <p align="center">
-  <i>“Automation is good, as long as you know exactly where to put the machine.” – Eliyahu Goldratt</i>
+  <i>“The future belongs to those who automate intelligently.”</i>
 </p>
