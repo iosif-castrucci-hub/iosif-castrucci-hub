@@ -28,6 +28,7 @@
   <a href="https://github.com/iosif-castrucci-hub/iosif-castrucci-hub/raw/main/CV_IosifCastrucci.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/iosif-castrucci-hub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
