@@ -10,15 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7EE5F5&center=true&vCenter=true&width=650&lines=Automation+Engineer;Prompt+Engineer;AI+Workflows+%26+No-Code+Automation;Designing+systems+that+work+for+you." alt="Typing subtitle"/>
 </p>
 
-<h3 align="center">💡 About Me</h3>
-
-<p align="center">
-  🚀 I design and build automations that connect APIs, AI models, and humans.<br>
-  🧠 Experienced in Python, LLMs, and no-code platforms like Make, Zapier, and n8n.<br>
-  🔁 I love transforming repetitive tasks into reliable, scalable workflows.<br>
-  📫 Reach me at: <b>contact.iosifcastrucci@gmail.com</b>
-</p>
-
 <h3 align="center">⚙️ Featured Projects</h3>
 
 | Project | Description | Link |
