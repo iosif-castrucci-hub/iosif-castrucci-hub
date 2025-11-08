@@ -21,8 +21,7 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=B47CFF&center=true&vCenter=true&width=900&lines=Automation+is+good,+as+long+as+you+know+exactly+where+to+put+the+machine.+-+Eliyahu+Goldratt"
-    alt="Animated Quote"
-/>
+    alt="Animated Quote"/>
 </p>
 
 
