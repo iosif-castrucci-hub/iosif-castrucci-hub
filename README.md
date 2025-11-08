@@ -30,7 +30,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/iosif-castrucci-hub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=B47CFF"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/iosifcastrucci/">
