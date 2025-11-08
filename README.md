@@ -19,13 +19,6 @@
 | 🔐 **Mini SOC Automation** | Automation logic applied to cybersecurity alert handling | [View Repository](#) |
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=B47CFF&center=true&vCenter=true&width=900&lines=Automation+is+good,+as+long+as+you+know+exactly+where+to+put+the+machine.+-+Eliyahu+Goldratt"
-    alt="Animated Quote"/>
-</p>
-
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=7EE5F5&center=true&vCenter=true&width=435&lines=Automate.;Optimize.;Innovate." alt="Typing Slogan"/>
 </p>
 
