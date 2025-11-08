@@ -21,7 +21,6 @@
 | 🔐 **Mini SOC Automation** | Automation logic applied to cybersecurity alert handling | [View Repository](#) |
 
 </div>
-utomation** | Automation logic applied to cybersecurity alert handling | [View Repository](#) |
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=7EE5F5&center=true&vCenter=true&width=435&lines=Automate.;Optimize.;Innovate." alt="Typing Slogan"/>
