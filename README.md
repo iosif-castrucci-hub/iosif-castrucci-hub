@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7EE5F5&center=true&vCenter=true&width=650&lines=Automation+Engineer;Prompt+Engineer;AI+Workflows+%26+No-Code+Automation;Designing+systems+that+work+for+you." alt="Typing subtitle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2F2F2F&center=true&vCenter=true&width=650&lines=Automation+Engineer;Prompt+Engineer;AI+Workflows+%26+No-Code+Automation;Designing+systems+that+work+for+you." alt="Typing subtitle"/>
 </p>
 
 <h3 align="center">⚙️ Featured Projects</h3>
@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=7EE5F5&center=true&vCenter=true&width=435&lines=Automate.;Optimize.;Innovate." alt="Typing Slogan"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2F2F2F&center=true&vCenter=true&width=435&lines=Automate.;Optimize.;Innovate." alt="Typing Slogan"/>
 </p>
 
 <h3 align="center">🤝 Connect with Me</h3>
@@ -43,5 +43,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=B47CFF&center=true&vCenter=true&width=900&lines=The+future+belongs+to+those+who+automate+intelligently.;Keep+building.+Keep+optimizing.+Keep+learning." alt="Animated Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2F2F2F&center=true&vCenter=true&width=900&lines=The+future+belongs+to+those+who+automate+intelligently.;Keep+building.+Keep+optimizing.+Keep+learning." alt="Animated Footer"/>
 </p>
