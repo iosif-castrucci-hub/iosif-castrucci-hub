@@ -29,7 +29,7 @@
 <h3 align="center">🤝 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://github.com/iosif-castrucci-hub/iosif-castrucci-hub/raw/main/CV_IosifCastrucci.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/iosif-castrucci-hub/iosif-castrucci-hub/main/IosifCastrucci_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   &nbsp;
