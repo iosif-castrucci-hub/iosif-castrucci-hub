@@ -18,7 +18,7 @@
 |:--------|:-------------|:----|
 | 🤖 **AI Workflow Builder** | A cybersecurity automation project built with n8n, AbuseIPDB, VirusTotal, Google Sheets, and Telegram. | [View Repository](https://github.com/iosif-castrucci-hub/n8n-Threat-Intelligence-Enrichment-Pipeline) |
 | ⚡ **Smart Prompt System** | Modular system for dynamic and reusable prompt templates | [View Repository](#) |
-| 🔐 **Mini SOC Automation** | Automation logic applied to cybersecurity alert handling | [View Repository](#) |
+| 🔐 **Mini SOC Automation** | Automation logic applied to cybersecurity alert handling | [View Repository](https://github.com/iosif-castrucci-hub/n8n-security-incident-response) |
 
 </div>
 
