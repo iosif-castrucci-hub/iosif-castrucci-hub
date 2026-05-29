@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Iosif Castrucci</h1>
 
 <p align="center">
-  ⚙️ <b>Automation Engineer</b> | 🤖 <b>Prompt Engineer</b><br>
+  ⚙️ <b>AI Automation Specialist</b> | 🤖 <b>Prompt Engineer</b><br>
   Turning complex processes into <b>smart automated systems</b>.<br>
   Passionate about <b>AI workflows</b>, <b>LLM prompt design</b>, and <b>no-code innovation</b>.
 </p>
